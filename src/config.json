@@ -239,7 +239,7 @@
           "cName": "消息通知",
           "desc": "在页面顶部展示消息提示",
           "sort": 8,
-          "show": false,
+          "show": true,
           "author": "vickyYE"
         },
         {
