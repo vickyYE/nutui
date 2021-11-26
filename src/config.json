@@ -251,6 +251,16 @@
           "sort": 7,
           "show": true,
           "author": "swag~jun"
+        },
+        {
+          "version": "1.0.0",
+          "name": "NoticeBar",
+          "type": "component",
+          "cName": "通告栏",
+          "desc": "用于循环播放展示一组消息通知。",
+          "sort": 10,
+          "show": true,
+          "author": "vickyYE"
         }
       ]
     },

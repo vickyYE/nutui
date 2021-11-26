@@ -183,7 +183,7 @@ export const Range: FunctionComponent<Partial<RangeProps> & React.HTMLAttributes
 
       const rect = useRect(root.current)
       const delta = touch.deltaX
-      const total = rect?.width
+      const total = rect.width
       const diff = (delta / total) * scope()
 
       if (isRange(startValue)) {
